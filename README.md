@@ -11,6 +11,7 @@ If you use any of the code or data provided here, please cite the above paper.
 
 
 ├── README.md<br>
+├── environment.yml<br>
 ├── <font color="#3465A4"><b>simulations</b></font><br>
 │   ├── script_mse_COFIPL_vs_SCOFIPL_2blocs.py<br>
 │   ├── script_mse_COFIPL_vs_SCOFIPL_compar_SCM_PO.py<br>
