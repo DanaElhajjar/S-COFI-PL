@@ -40,15 +40,6 @@ conda env create -f environment.yml
 conda activate s-cofi-pl
 ```
 
-< ! --## Dataset -- >
-
-For real-world example, you need to download the dataset and decompress it into `data` folder: -- >
-
-```console -- >
-wget https://zenodo.org/records/11283419/files/Sentinel1_timeseries_mexico_interfero.zip?download=1 -- >
-unzip data.zip data/ -- >
-``` -- >
-
 ### Authors
 
 * Dana El Hajjar, mail: dana.el-hajjar@univ-smb.fr,  dana.el-hajjar@centralesupelec.fr
